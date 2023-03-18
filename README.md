@@ -1,2 +1,2 @@
 # my_tar
-a reimplementation of the archiving tool for unix 
+a reimplementation of the unix archiving tool
