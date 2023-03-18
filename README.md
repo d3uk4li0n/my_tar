@@ -9,7 +9,7 @@ a reimplementation of the unix archiving tool
 -u new entries are added only if they have a modification date newer than the corresponding entry in the archive  
 -x extract archive (replaces file if it already exists)  
 
-the main file my_tar.c does most of the heavy lifting, implementing all the features
+the main file my_tar.c does most of the heavy lifting, implementing all the features  
 implementation of the original header: https://www.gnu.org/software/tar/manual/html_node/Standard.html  
 
 ## Authorized function(s)
