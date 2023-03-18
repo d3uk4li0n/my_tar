@@ -41,7 +41,7 @@ utime
 write(2)  
 
 ## Installation
-make
+make  
 make clean (to clean up after usage)
 
 ## Usage
