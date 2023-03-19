@@ -12,4 +12,3 @@ $(TARGET): $(OBJ) $(DEPS)
 .PHONY: clean
 clean:
 	rm -f src/*.o *.tar $(TARGET)
-
